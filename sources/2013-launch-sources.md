@@ -1,0 +1,6 @@
+[1]: https://www.allure.com/story/marc-jacobs-is-launching-a-makeup-line "Marc Jacobs Is Launching a Makeup Line! | Allure"
+[2]: https://www.beautyworldnews.com/articles/1643/20120405/marc-jacobs-new-cosmetic-line-sephora.htm?utm_source=chatgpt.com "Marc Jacobs New Cosmetic Line Coming Soon to Sephora"
+[3]: https://www.allure.com/story/marc-jacobs-best-makeup-looks "A Look Back at Marc Jacobs's Best Makeup Looks | Allure"
+[4]: https://www.allure.com/story/marc-jacobs-beauty-relaunch-2026-review "Does the New Marc Jacobs Beauty Live Up to the Original? 5 OG Fans Put It to the Test | Allure"
+[5]: https://www.prnewswire.com/news-releases/marc-jacobs-beauty-launches-today-exclusively-at-sephora-218978221.html?utm_source=chatgpt.com "Marc Jacobs Beauty Launches Today Exclusively At Sephora"
+[6]: https://www.temptalia.com/marc-jacobs-beauty-collection-exclusively-at-sephora/?utm_source=chatgpt.com "Marc Jacobs Beauty Collection Exclusively at Sephora"
