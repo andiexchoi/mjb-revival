@@ -1,0 +1,122 @@
+[
+  {
+    "table_catalog": "MARCJACOBS_BEAUTY_REVIVAL",
+    "table_schema": "ANALYTICS",
+    "table_name": "ASSORTMENT_BY_CATEGORY",
+    "table_type": "VIEW",
+    "row_count": null,
+    "bytes": null,
+    "created": "2026-06-27 16:39:17.156000-07:00",
+    "last_altered": "2026-06-27 16:39:17.471000-07:00"
+  },
+  {
+    "table_catalog": "MARCJACOBS_BEAUTY_REVIVAL",
+    "table_schema": "ANALYTICS",
+    "table_name": "CLEAN_SHADE_MASTER",
+    "table_type": "VIEW",
+    "row_count": null,
+    "bytes": null,
+    "created": "2026-06-27 15:57:44.598000-07:00",
+    "last_altered": "2026-06-27 15:57:44.893000-07:00"
+  },
+  {
+    "table_catalog": "MARCJACOBS_BEAUTY_REVIVAL",
+    "table_schema": "ANALYTICS",
+    "table_name": "COMPLEXION_SHADE_DEPTH",
+    "table_type": "VIEW",
+    "row_count": null,
+    "bytes": null,
+    "created": "2026-06-27 16:39:22.142000-07:00",
+    "last_altered": "2026-06-27 16:39:22.305000-07:00"
+  },
+  {
+    "table_catalog": "MARCJACOBS_BEAUTY_REVIVAL",
+    "table_schema": "ANALYTICS",
+    "table_name": "COMPLEXION_UNDERTONE_MATRIX",
+    "table_type": "VIEW",
+    "row_count": null,
+    "bytes": null,
+    "created": "2026-06-27 16:39:23.746000-07:00",
+    "last_altered": "2026-06-27 16:39:24.001000-07:00"
+  },
+  {
+    "table_catalog": "MARCJACOBS_BEAUTY_REVIVAL",
+    "table_schema": "ANALYTICS",
+    "table_name": "FINISH_MIX_BY_ERA",
+    "table_type": "VIEW",
+    "row_count": null,
+    "bytes": null,
+    "created": "2026-06-27 16:39:19.658000-07:00",
+    "last_altered": "2026-06-27 16:39:19.870000-07:00"
+  },
+  {
+    "table_catalog": "MARCJACOBS_BEAUTY_REVIVAL",
+    "table_schema": "ANALYTICS",
+    "table_name": "OOS_BY_PRODUCT",
+    "table_type": "VIEW",
+    "row_count": null,
+    "bytes": null,
+    "created": "2026-06-27 16:39:20.934000-07:00",
+    "last_altered": "2026-06-27 16:39:21.185000-07:00"
+  },
+  {
+    "table_catalog": "MARCJACOBS_BEAUTY_REVIVAL",
+    "table_schema": "ANALYTICS",
+    "table_name": "PRODUCTS",
+    "table_type": "VIEW",
+    "row_count": null,
+    "bytes": null,
+    "created": "2026-06-26 17:57:56.627000-07:00",
+    "last_altered": "2026-06-26 17:57:56.860000-07:00"
+  },
+  {
+    "table_catalog": "MARCJACOBS_BEAUTY_REVIVAL",
+    "table_schema": "ANALYTICS",
+    "table_name": "SHADES",
+    "table_type": "VIEW",
+    "row_count": null,
+    "bytes": null,
+    "created": "2026-06-26 17:58:58.693000-07:00",
+    "last_altered": "2026-06-26 17:58:58.928000-07:00"
+  },
+  {
+    "table_catalog": "MARCJACOBS_BEAUTY_REVIVAL",
+    "table_schema": "ANALYTICS",
+    "table_name": "SHADE_COLOR_DISTRIBUTION",
+    "table_type": "VIEW",
+    "row_count": null,
+    "bytes": null,
+    "created": "2026-06-27 16:39:18.344000-07:00",
+    "last_altered": "2026-06-27 16:39:18.526000-07:00"
+  },
+  {
+    "table_catalog": "MARCJACOBS_BEAUTY_REVIVAL",
+    "table_schema": "RAW",
+    "table_name": "PRODUCTS_RAW",
+    "table_type": "BASE TABLE",
+    "row_count": 22,
+    "bytes": 7168,
+    "created": "2026-06-26 17:49:08.503000-07:00",
+    "last_altered": "2026-06-26 17:53:26.438000-07:00"
+  },
+  {
+    "table_catalog": "MARCJACOBS_BEAUTY_REVIVAL",
+    "table_schema": "RAW",
+    "table_name": "SCHEMA_VALUES_ALLOWED_RAW",
+    "table_type": "BASE TABLE",
+    "row_count": 14,
+    "bytes": 1536,
+    "created": "2026-06-26 17:52:28.007000-07:00",
+    "last_altered": "2026-06-26 17:52:30.250000-07:00"
+  },
+  {
+    "table_catalog": "MARCJACOBS_BEAUTY_REVIVAL",
+    "table_schema": "RAW",
+    "table_name": "SHADES_RAW",
+    "table_type": "BASE TABLE",
+    "row_count": 203,
+    "bytes": 12288,
+    "created": "2026-06-26 17:50:46.549000-07:00",
+    "last_altered": "2026-06-26 17:56:02.861000-07:00"
+  }
+]
