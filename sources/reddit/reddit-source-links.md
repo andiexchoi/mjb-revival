@@ -4,13 +4,7 @@ https://www.reddit.com/r/Sephora/comments/1tw52ca/marc_jacobs_new_products_first
 
 https://www.reddit.com/r/Sephora/comments/1tuz50c/okay_but_this_packaging_is_so_cute/
 
-https://www.reddit.com/r/Sephora/comments/1tuz50c/okay_but_this_packaging_is_so_cute/
-
 https://www.reddit.com/r/Sephora/comments/1u0ijmf/marc_jacobs_mascara/
-
-https://www.reddit.com/r/Sephora/comments/1u0ijmf/marc_jacobs_mascara/
-
-https://www.reddit.com/r/Sephora/comments/1tsoldo/marc_jacobs_beauty_is_here/
 
 https://www.reddit.com/r/Sephora/comments/1tsoldo/marc_jacobs_beauty_is_here/
 
